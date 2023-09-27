@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 你好，世界 👋
+- 📙 Working on iOS
+- ❤️ Interested in SwiftUI
+- ⚽️ Soccer lovers
 <!--
 **CoderQHao/CoderQHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
