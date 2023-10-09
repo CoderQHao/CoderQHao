@@ -2,9 +2,6 @@
 - 📙 Working on iOS
 - ❤️ Interested in SwiftUI
 - ⚽️ Soccer lovers
-![图片转存失败，建议将图片保存下来直接上传
-        [我的 GitHub 数据(https://github-readme-stats.vercel.app/api?username=CoderQHao)]()
-]()
 <!--
 **CoderQHao/CoderQHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
